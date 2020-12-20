@@ -11,7 +11,7 @@ Cheng Hao is a resilient and adaptive fast learner with 3 years of work experien
 
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChengHaoKe&langs_count=10&hide=TeX&layout=compact) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChengHaoKe&langs_count=8)](https://github.com/ChengHaoKe/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChengHaoKe&langs_count=10&layout=compact&show_icons=true)](https://github.com/ChengHaoKe/github-readme-stats)
 
 
 
