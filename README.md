@@ -5,14 +5,24 @@ Cheng Hao is a resilient and adaptive fast learner with 3 years of work experien
 
 &nbsp;  
 
+<!--
 ![Cheng Hao's Github Stats](https://github-readme-stats.chenghaoke.vercel.app/api?username=ChengHaoKe&count_private=true&show_icons=true&include_all_commits=true)
-
-
 **Languages and Tools:**
+![Top Langs](https://github-readme-stats.chenghaoke.vercel.app/api/top-langs/?username=ChengHaoKe&langs_count=10&show_icons=true&layout=compact) 
+-->
 
+<a href="https://github.com/ChengHaoKe/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.chenghaoke.vercel.app/api?username=ChengHaoKe&count_private=true&show_icons=true&include_all_commits=true" />
+  Cheng Hao's Github Stats
+</a>
+<a href="https://github.com/ChengHaoKe/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.chenghaoke.vercel.app/api/top-langs/?username=ChengHaoKe&langs_count=10&show_icons=true&layout=compact" />
+  Languages and Tools
+</a>
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChengHaoKe&langs_count=10&hide=TeX&layout=compact) -->
+<!--
 [![Top Langs](https://github-readme-stats.chenghaoke.vercel.app/api/top-langs/?username=ChengHaoKe&langs_count=10&layout=compact&show_icons=true)](https://github.com/ChengHaoKe/github-readme-stats)
+-->
 
 
 
