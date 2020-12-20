@@ -8,16 +8,16 @@ Cheng Hao is a resilient and adaptive fast learner with 3 years of work experien
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/pythonlogo.png" style="background-color:white;"></code>
-<code><img height="20" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/Rlogo.png" style="background-color:white;"></code>
-<code><img height="20" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/javalogo.png" style="background-color:white;"></code>
-<code><img height="20" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/spsslogo.png" style="background-color:white;"></code>
-<code><img height="20" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/sas-6-logo-png-transparent.png" style="background-color:white;"></code>
-<code><img height="20" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/Tableau_Logo.png" style="background-color:white;"></code>
-<code><img height="20" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/mssql.png" style="background-color:white;"></code>
-<code><img height="20" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/postgresql.png" style="background-color:white;"></code>
-<code><img height="20" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/Git-Icon-1788C.png" style="background-color:white;"></code>
-<code><img height="20" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/1280px-LaTeX_logo.svg.png" style="background-color:white;"></code>
+<code><img height="20" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/pythonlogo.png" style="background-color:white;padding:5px;"></code>
+<code><img height="20" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/Rlogo.png" style="background-color:white;padding:5px;"></code>
+<code><img height="20" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/javalogo.png" style="background-color:white;padding:5px;"></code>
+<code><img height="20" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/spsslogo.png" style="background-color:white;padding:5px;"></code>
+<code><img height="20" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/sas-6-logo-png-transparent.png" style="background-color:white;padding:5px;"></code>
+<code><img height="20" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/Tableau_Logo.png" style="background-color:white;padding:5px;"></code>
+<code><img height="20" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/mssql.png" style="background-color:white;padding:5px;"></code>
+<code><img height="20" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/postgresql.png" style="background-color:white;padding:5px;"></code>
+<code><img height="20" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/Git-Icon-1788C.png" style="background-color:white;padding:5px;"></code>
+<code><img height="20" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/1280px-LaTeX_logo.svg.png" style="background-color:white;padding:5px;"></code>
 
 &nbsp;  
 
