@@ -24,7 +24,9 @@ Cheng Hao is a resilient and adaptive fast learner with 3 years of work experien
 [![Top Langs](https://github-readme-stats.chenghaoke.vercel.app/api/top-langs/?username=ChengHaoKe&langs_count=10&layout=compact&show_icons=true)](https://github.com/ChengHaoKe/github-readme-stats)
 -->
 
+&nbsp;  
 
+[![Cheng Hao's wakatime stats](https://github-readme-stats.chenghaoke.vercel.app/api/wakatime?username=ChengHaoKe&layout=compact)](https://github.com/ChengHaoKe/github-readme-stats)
 
 <!--
 **ChengHaoKe/ChengHaoKe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
