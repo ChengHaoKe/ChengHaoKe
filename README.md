@@ -5,6 +5,22 @@ Cheng Hao is a resilient and adaptive fast learner with 3 years of work experien
 
 &nbsp;  
 
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/pythonlogo.png" style="background-color:white;padding:5px;"></code>
+<code><img height="20" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/Rlogo.png" style="background-color:white;padding:5px;"></code>
+<code><img height="20" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/javalogo.png" style="background-color:white;padding:5px;"></code>
+<code><img height="20" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/spsslogo.png" style="background-color:white;padding:5px;"></code>
+<code><img height="20" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/sas-6-logo-png-transparent.png" style="background-color:white;padding:5px;"></code>
+<code><img height="20" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/Tableau_Logo.png" style="background-color:`#FFFFFF`;padding:5px;"></code>
+<code><img height="20" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/mssql.png" style="background-color:#FFFFFF;padding:5px;"></code>
+<code><img height="20" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/postgresql.png" style="background-color:#FFFFFF;padding:5px;"></code>
+<code><img height="20" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/Git-Icon-1788C.png" style="background-color:#FFFFFF;padding:5px;"></code>
+<code><img height="20" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/1280px-LaTeX_logo.svg.png" style="background-color:#FFFFFF;padding:5px;"></code>
+
+&nbsp;  
+
 <!--
 ![Cheng Hao's Github Stats](https://github-readme-stats.chenghaoke.vercel.app/api?username=ChengHaoKe&count_private=true&show_icons=true&include_all_commits=true)
 **Languages and Tools:**
@@ -25,8 +41,9 @@ Cheng Hao is a resilient and adaptive fast learner with 3 years of work experien
 -->
 
 &nbsp;  
-
+<!--
 [![Cheng Hao's wakatime stats](https://github-readme-stats.chenghaoke.vercel.app/api/wakatime?username=ChengHaoKe&layout=compact)](https://github.com/ChengHaoKe/github-readme-stats)
+<!--
 
 <!--
 **ChengHaoKe/ChengHaoKe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
