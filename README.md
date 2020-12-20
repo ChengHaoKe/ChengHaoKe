@@ -5,6 +5,17 @@ Cheng Hao is a resilient and adaptive fast learner with 3 years of work experien
 
 &nbsp;  
 
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/pythonlogo.png"></code>
+<code><img height="20" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/Rlogo.png"></code>
+<code><img height="20" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/javalogo.png"></code>
+<code><img height="20" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/spsslogo.png"></code>
+<code><img height="20" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/sas-6-logo-png-transparent.png"></code>  
+
+&nbsp;  
+
 <!--
 ![Cheng Hao's Github Stats](https://github-readme-stats.chenghaoke.vercel.app/api?username=ChengHaoKe&count_private=true&show_icons=true&include_all_commits=true)
 **Languages and Tools:**
