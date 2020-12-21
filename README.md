@@ -6,8 +6,7 @@ Cheng Hao is a resilient and adaptive fast learner with 3 years of work experien
 [LinkedIn Profile](https://www.linkedin.com/in/cheng-hao-ke/) &nbsp;  
 [Student Profile](https://www.mccormick.northwestern.edu/analytics/people/students/class-of-2021/ke-cheng-hao.html)
 
-&nbsp;  
-
+&nbsp;
 
 **Languages and Tools:**  
 
@@ -45,7 +44,7 @@ style="background-color:white;padding:5px;"
   <img align="center" src="https://github-readme-stats.chenghaoke.vercel.app/api?username=ChengHaoKe&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/ChengHaoKe/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.chenghaoke.vercel.app/api/top-langs/?username=ChengHaoKe&langs_count=6&show_icons=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.chenghaoke.vercel.app/api/top-langs/?username=ChengHaoKe&langs_count=10&show_icons=true&layout=compact" />
 </a>
 
 <!--
