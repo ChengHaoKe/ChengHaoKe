@@ -3,7 +3,7 @@
 
 Cheng Hao is a resilient and adaptive fast learner with 3 years of work experience in Taiwan’s private sector. He has experience in all stages of data science, from data wrangling, statistical analysis to machine learning model evaluation. He is also skilled in automating tasks to increase efficiency. Cheng Hao is currently pursuing a Master of Science in Analytics degree at Northwestern University.
   
-[LinkedIn Profile](https://www.linkedin.com/in/cheng-hao-ke/)
+[LinkedIn Profile](https://www.linkedin.com/in/cheng-hao-ke/) &nbsp;  
 [Student Profile](https://www.mccormick.northwestern.edu/analytics/people/students/class-of-2021/ke-cheng-hao.html)
 
 &nbsp;  
