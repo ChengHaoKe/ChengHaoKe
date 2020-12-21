@@ -8,16 +8,20 @@ Cheng Hao is a resilient and adaptive fast learner with 3 years of work experien
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/pythonlogo.png" style="background-color:white;padding:5px;"></code>
-<code><img height="20" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/Rlogo.png" style="background-color:white;padding:5px;"></code>
-<code><img height="20" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/javalogo.png" style="background-color:white;padding:5px;"></code>
-<code><img height="20" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/spsslogo.png" style="background-color:white;padding:5px;"></code>
-<code><img height="20" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/sas-6-logo-png-transparent.png" style="background-color:white;padding:5px;"></code>
-<code><img height="20" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/Tableau_Logo.png" style="background-color:`#FFFFFF`;padding:5px;"></code>
-<code><img height="20" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/mssql.png" style="background-color:#FFFFFF;padding:5px;"></code>
-<code><img height="20" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/postgresql.png" style="background-color:#FFFFFF;padding:5px;"></code>
-<code><img height="20" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/Git-Icon-1788C.png" style="background-color:#FFFFFF;padding:5px;"></code>
-<code><img height="20" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/1280px-LaTeX_logo.svg.png" style="background-color:#FFFFFF;padding:5px;"></code>
+<p align="center">
+<img height="40" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/pythonlogo.png">
+<img height="40" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/Rlogo.png">
+<img height="40" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/java_white.jpg">
+<img height="40" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/spsslogo.png">
+<img height="40" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/sas-logo.jpg">
+<img height="40" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/tableau-logo.jpg">
+<img height="40" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/mssql-logo.png">
+<img height="40" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/postgresql-logo.png">
+<img height="40" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/Git-Icon-1788C.png">
+<img height="40" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/bash-logo.png">
+<img height="40" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/latex-white.png">
+<img height="40" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/grafanalogo.jpg">
+  </p>
 
 &nbsp;  
 
@@ -25,6 +29,10 @@ Cheng Hao is a resilient and adaptive fast learner with 3 years of work experien
 ![Cheng Hao's Github Stats](https://github-readme-stats.chenghaoke.vercel.app/api?username=ChengHaoKe&count_private=true&show_icons=true&include_all_commits=true)
 **Languages and Tools:**
 ![Top Langs](https://github-readme-stats.chenghaoke.vercel.app/api/top-langs/?username=ChengHaoKe&langs_count=10&show_icons=true&layout=compact) 
+-->
+<!--
+style="background-color:white;padding:5px;"
+<code><img height="30" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/grafanalogo.jpg"></code>
 -->
 
 ## Cheng Hao's Github Stats
