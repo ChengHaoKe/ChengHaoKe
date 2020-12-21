@@ -9,19 +9,19 @@ Cheng Hao is a resilient and adaptive fast learner with 3 years of work experien
 **Languages and Tools:**  
 
 <p align="center">
-  <img height="40" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/python_word.png">
-  <img height="40" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/Rlogo.png">
-  <img height="40" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/java_white.jpg">
-  <img height="40" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/spsslogo.png">
-  <img height="40" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/sas-logo.jpg">
-  <img height="40" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/tableau-logo.jpg">
-  <img height="40" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/mssql-logo.png">
-  <img height="40" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/postgresql-logo.png">
-  <img height="40" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/Git-Icon-1788C.png">
-  <img height="40" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/bash-logo.png">
-  <img height="40" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/latex-white.png">
-  <img height="40" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/grafanalogo.jpg">
-  <img height="40" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/web_langswhite.png">
+  <img height="36" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/python_word.png">
+  <img height="36" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/Rlogo.png">
+  <img height="36" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/java_white.jpg">
+  <img height="36" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/spsslogo.png">
+  <img height="36" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/sas-logo.jpg">
+  <img height="36" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/tableau-logo.jpg">
+  <img height="36" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/mssql-logo.png">
+  <img height="36" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/postgresql-logo.png">
+  <img height="36" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/Git-Icon-1788C.png">
+  <img height="36" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/bash-logo.png">
+  <img height="36" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/latex-white.png">
+  <img height="36" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/grafanalogo.jpg">
+  <img height="36" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/web_langswhite.png">
 </p>
 
 &nbsp;  
