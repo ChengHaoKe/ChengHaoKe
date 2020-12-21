@@ -45,7 +45,7 @@ style="background-color:white;padding:5px;"
   <img align="center" src="https://github-readme-stats.chenghaoke.vercel.app/api?username=ChengHaoKe&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/ChengHaoKe/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.chenghaoke.vercel.app/api/top-langs/?username=ChengHaoKe&langs_count=8&show_icons=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.chenghaoke.vercel.app/api/top-langs/?username=ChengHaoKe&langs_count=6&show_icons=true&layout=compact" />
 </a>
 
 <!--
