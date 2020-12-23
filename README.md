@@ -38,6 +38,7 @@ style="background-color:white;padding:5px;"
 -->
 
 ## Cheng Hao's Github Stats
+* Statistics are calculated only for public repositories owned by me
 
 <a href="https://github.com/ChengHaoKe/github-readme-stats">
   <img align="center" src="https://github-readme-stats.chenghaoke.vercel.app/api?username=ChengHaoKe&count_private=true&theme=dark&show_icons=true&include_all_commits=true" />
