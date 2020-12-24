@@ -48,7 +48,7 @@ style="background-color:white;padding:5px;"
 </a>
 
 
-[![Top Langs](https://github-readme-stats.chenghaoke.vercel.app/api/top-langs/?username=ChengHaoKe&langs_count=10&theme=dark&layout=compact&show_icons=true)](https://github.com/ChengHaoKe/github-readme-stats)
+[![](https://github-readme-stats.chenghaoke.vercel.app/api/top-langs/?username=ChengHaoKe&langs_count=10&theme=dark&layout=compact&show_icons=true)](https://github.com/ChengHaoKe/github-readme-stats)
 
 &nbsp;  
 <!--
