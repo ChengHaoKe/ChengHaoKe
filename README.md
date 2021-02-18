@@ -7,7 +7,7 @@ Cheng Hao is a resilient and adaptive fast learner with 3 years of work experien
 [Student Profile](https://www.mccormick.northwestern.edu/analytics/people/students/class-of-2021/ke-cheng-hao.html)
 &nbsp;  
 [R Shiny Demo](https://chenghaoke.shinyapps.io/rshiny/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ▓▓▓▓▓▓▓░░░░░░░░░░░░░ &nbsp; 35% &nbsp;  
-[Python Flask Demo](https://ch-flaskdemo.herokuapp.com/) &nbsp;&nbsp;&nbsp; ▓▓▓░░░░░░░░░░░░░░░░░ &nbsp; 15%
+[Python Flask Demo](https://ch-flaskdemo.herokuapp.com/) &nbsp;&nbsp;&nbsp; ▓▓▓▓░░░░░░░░░░░░░░░░ &nbsp; 20%
 
 **Languages and Tools:**  
 
