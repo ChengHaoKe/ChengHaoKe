@@ -2,26 +2,30 @@
 
 
 Cheng Hao is a resilient and adaptive fast learner with 3 years of work experience in Taiwan’s private sector. He has experience in all stages of data science, from data wrangling, statistical analysis to machine learning model evaluation. He is also skilled in automating tasks to increase efficiency. Cheng Hao is currently pursuing a Master of Science in Analytics degree at Northwestern University.
-
+  
+[LinkedIn Profile](https://www.linkedin.com/in/cheng-hao-ke/) &nbsp;  
+[Student Profile](https://www.mccormick.northwestern.edu/analytics/people/students/class-of-2021/ke-cheng-hao.html)
 &nbsp;  
-
+[R Shiny Demo](https://chenghaoke.shinyapps.io/rshiny/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ▓▓▓▓▓▓▓░░░░░░░░░░░░░ &nbsp; 35% &nbsp;  
+[Python Flask Demo](https://ch-flaskdemo.herokuapp.com/) &nbsp;&nbsp;&nbsp; ▓▓▓▓░░░░░░░░░░░░░░░░ &nbsp; 20%
 
 **Languages and Tools:**  
 
 <p align="center">
-<img height="40" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/pythonlogo.png">
-<img height="40" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/Rlogo.png">
-<img height="40" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/java_white.jpg">
-<img height="40" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/spsslogo.png">
-<img height="40" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/sas-logo.jpg">
-<img height="40" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/tableau-logo.jpg">
-<img height="40" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/mssql-logo.png">
-<img height="40" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/postgresql-logo.png">
-<img height="40" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/Git-Icon-1788C.png">
-<img height="40" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/bash-logo.png">
-<img height="40" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/latex-white.png">
-<img height="40" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/grafanalogo.jpg">
-  </p>
+  <img height="32" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/python_word.png">
+  <img height="32" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/Rlogo.png">
+  <img height="32" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/java_white.jpg">
+  <img height="32" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/spsslogo.png">
+  <img height="32" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/sas-logo.jpg">
+  <img height="32" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/tableau-logo.jpg">
+  <img height="32" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/mssql-logo.png">
+  <img height="32" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/postgresql-logo.png">
+  <img height="32" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/Git-Icon-1788C.png">
+  <img height="32" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/bash-logo.png">
+  <img height="32" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/latex-white.png">
+  <img height="32" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/grafanalogo.jpg">
+  <img height="32" src="https://github.com/ChengHaoKe/ChengHaoKe/blob/main/logos/web_langswhite.png">
+</p>
 
 &nbsp;  
 
@@ -36,17 +40,22 @@ style="background-color:white;padding:5px;"
 -->
 
 ## Cheng Hao's Github Stats
+* Statistics are calculated only for public repositories owned by me
 
 <a href="https://github.com/ChengHaoKe/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.chenghaoke.vercel.app/api?username=ChengHaoKe&count_private=true&show_icons=true&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.chenghaoke.vercel.app/api?username=ChengHaoKe&count_private=true&theme=dark&show_icons=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/ChengHaoKe/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.chenghaoke.vercel.app/api/top-langs/?username=ChengHaoKe&langs_count=8&show_icons=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.chenghaoke.vercel.app/api/top-langs/?username=ChengHaoKe&langs_count=10&theme=dark&show_icons=true&layout=compact" />
 </a>
+
+&nbsp;  
 
 <!--
-[![Top Langs](https://github-readme-stats.chenghaoke.vercel.app/api/top-langs/?username=ChengHaoKe&langs_count=10&layout=compact&show_icons=true)](https://github.com/ChengHaoKe/github-readme-stats)
--->
+**Languages from Top Private Repositories:**
+<!--
+[![](https://github-readme-stats.chenghaoke.vercel.app/api/top-langs/?username=ChengHaoKe&langs_count=10&theme=dark&layout=compact&show_icons=true)](https://github.com/ChengHaoKe/github-readme-stats)
+<!--
 
 &nbsp;  
 <!--
