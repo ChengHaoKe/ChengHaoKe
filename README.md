@@ -43,10 +43,10 @@ style="background-color:white;padding:5px;"
 * Statistics are calculated only for public repositories owned by me
 
 <a href="https://github.com/ChengHaoKe/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.chenghaoke.vercel.app/api?username=anuraghazra&count_private=true&theme=dark&show_icons=true&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&theme=dark&show_icons=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/ChengHaoKe/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.chenghaoke.vercel.app/api/top-langs/?username=anuraghazra&langs_count=10&theme=dark&show_icons=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=10&theme=dark&show_icons=true&layout=compact" />
 </a>
 
 &nbsp;  
